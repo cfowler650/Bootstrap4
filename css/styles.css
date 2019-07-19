@@ -37,3 +37,7 @@ body {
 .navbar-dark {
   background-color: #512DA8;
 }
+
+.guestnumber {
+  padding-right: 10px;
+}
